@@ -2,7 +2,7 @@
 
 https://yhajg-kiaaa-aaaar-qbshq-cai.icp0.io/
 
-This is a frontend that aims to improve the user experience for interacting with the World Computer Lottery. The backend canister is maintained in a [separate repo](https://github.com/aodl/WorldComputerLottery/edit/master/README.md), as it's designed to be fully functional with minimal dependencies and easy to review and verify.
+This is a frontend that aims to improve the user experience for interacting with the World Computer Lottery. The backend canister is maintained in a [separate repo](https://github.com/aodl/WorldComputerLottery), as it's designed to be fully functional with minimal dependencies and easy to review and verify.
 
 ## How to Play
 
